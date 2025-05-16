@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### 🌍 Hello, I'm Ashley!
-**Sui Move Smart Contract Developer | Computer Science Student @ Kenyatta University**  
+**Sui Move Smart Contract Developer | Web3 Developer | Computer Science Student @ Kenyatta University**  
 📍 Nairobi, Kenya | 🚀 Building the future of decentralized finance (DeFi)  
 
 #### 🔧 **What I Do**
@@ -10,8 +10,6 @@
 
 #### 🛠 **Tech Stack**
 ![Sui Move](https://img.shields.io/badge/Sui-Move-6FCF97?logo=move&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
