@@ -1,31 +1,38 @@
-### 🌍 Hello, I'm Ashley! 
-**Sui Move Smart Contract Developer | Web3 Builder | Open-Source Advocate**  
+# 💫 About Me:
+### 🌍 Hello, I'm Ashley!
+**Sui Move Smart Contract Developer | Computer Science Student @ Kenyatta University**  
 📍 Nairobi, Kenya | 🚀 Building the future of decentralized finance (DeFi)  
 
 #### 🔧 **What I Do**
-- 💻 Write secure, gas-efficient smart contracts in **Sui Move** for dApps & DeFi protocols.
-- 🌐 Contribute to **Web3 ecosystems** (Sui, Ethereum) with a focus on scalability.
-- 📖 **Teaching** blockchain concepts through open-source examples and docs.
+- 💻 Write **gas-optimized smart contracts** in Sui Move for dApps & DeFi
+- 🌐 Full-stack Web3 development: **Next.js + Node.js + The Graph**
+- 📚 Applying **CS theory** (Algorithms, Cryptography) to blockchain systems
 
 #### 🛠 **Tech Stack**
 ![Sui Move](https://img.shields.io/badge/Sui-Move-6FCF97?logo=move&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?logo=firebase&logoColor=ffcd34)
 
 #### 🌱 **Learning & Exploring**
-- Zero-knowledge proofs (**ZKPs**) for privacy-preserving DeFi.
-- **Rust** for high-performance blockchain tooling.
-- Governance models for **Sui-powered DAOs**.
+- Zero-knowledge proofs (**ZKPs**) for private transactions
+- **Move Prover** for formal verification
+- **DAO governance models** on Sui
 
-#### ✨ **Fun Stuff**
-- Mentoring aspiring **African Web3 devs** 🌍.
-- Breaking (then fixing) testnets in my free time ⚡.
-- Advocating for **real-world blockchain adoption** in Kenya.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ashley098020) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ashley%20Mwende) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Mwende10Ashley) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashleymwende24@gmail.com)
 
-#### 📫 **Let’s Connect**
-- Twitter: [@YourHandle](https://twitter.com/YourHandle) (Web3 insights)
-- LinkedIn: [Your Profile](https://linkedin.com/in/YourProfile) (Professional collabs)
-- Blog: [Your Blog](https://yourblog.com) (Tech deep-dives)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ashley-code396&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Ashley-code396&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashley-code396&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-> *"Turning coffee into bytecode, one smart contract at a time."* ☕💻
+---
+> *"From KU's CS labs to the Sui blockchain – turning theory into decentralized reality."*  
+[![](https://visitcount.itsvg.in/api?id=Ashley-code396&icon=0&color=0)](https://visitcount.itsvg.in)
